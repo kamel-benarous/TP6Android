@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TP6</string>
+    <string-array name="pays">
+        <item>Tunisia</item>
+        <item>singapore</item>
+        <item>marroc</item>
+        <item>malysia</item>
+        <item>Japon</item>
+    </string-array>
+</resources>
